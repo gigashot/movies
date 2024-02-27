@@ -15,11 +15,11 @@ action_pick()
 
 Program vám umožní vybrat si mezi několika funkcemi:
 
-1.Vypsat všechny dostupné filmy: Program vypíše názvy všech filmů.
+1. Vypsat všechny dostupné filmy: Program vypíše názvy všech filmů.
 
-2.Vypsat detaily jednoho filmu: Program vás požádá o název filmu a zobrazí jeho detaily, pokud je k dispozici.
+2. Vypsat detaily jednoho filmu: Program vás požádá o název filmu a zobrazí jeho detaily, pokud je k dispozici.
 
-3.Doporučit film: Program vám doporučí náhodný film z databáze.
+3. Doporučit film: Program vám doporučí náhodný film z databáze.
 
 # Funkce
 * Zobrazit všechny dostupné filmy.
