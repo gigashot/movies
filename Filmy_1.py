@@ -1,15 +1,3 @@
-# Sjednotit všechny 4 slovníky do jednoho,
-
-# done přihlásit a uvítat uživatele a vypsat nabídku služeb,
-
-# done umožnit výběr ze služeb,
-
-# done první služba, vypsat všechny dostupné filmy,
-
-# druhá služba, vypsat detaily jednoho filmu,
-# třetí služba, doporučit film,
-# ukončení programu.
-# import pandas as pd
 import random
 
 film_1 = {
@@ -107,7 +95,7 @@ def action_pick():
     elif action_choose == "3":
        nahodny_film(films)
 
-users = ["marek"]
+users = ["marek", "jk",]
 def login():
     vstup = str(input("Zadjete své jméno: "))
     if vstup in users:
