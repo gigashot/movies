@@ -1,12 +1,12 @@
 
-### Databáze filmů
+# Databáze filmů
 Jednoduchý program v Pythonu pro doporučování filmů. Program obsahuje databázi několika filmů, umožňuje uživatelům vypsat všechny dostupné filmy, zobrazit detaily jednoho konkrétního filmu nebo dostat doporučení pro náhodný film.
 
 ## Jak používat
-# Požadavky
+### Požadavky
 Program vyžaduje nainstalovaný Python.
 
-# Spuštění
+### Spuštění
 Stačí spustit funkci action_pick() v Pythonu.
 
 ```
@@ -21,13 +21,13 @@ Program vám umožní vybrat si mezi několika funkcemi:
 
 3. Doporučit film: Program vám doporučí náhodný film z databáze.
 
-# Funkce
+### Funkce
 * Zobrazit všechny dostupné filmy.
 * Zobrazit detaily konkrétního filmu.
 * Dostat doporučení pro náhodný film.
-# Příklad použití
+### Příklad použití
 ```
-# Spustí program a umožní uživateli vybrat funkci
+### Spustí program a umožní uživateli vybrat funkci
 action_pick()
 ```
 Program vám následně poskytne možnosti výběru a provede vybranou akci.
