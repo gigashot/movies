@@ -79,6 +79,7 @@ def vypis_detaily_filmu(jmeno_filmu, filmy):
 
 
 def action_pick():
+    print("---------------------------")
     print(" Vyberte si funcki")
     print("---------------------------")
     print("1) vypsat všechny dostupné filmy / 2) vypsat detaily jednoho filmu / 3) doporučit film")
